@@ -1,0 +1,144 @@
+body 
+{background-color:silver
+}
+
+#nav
+{background-color:gray;
+height:70px;
+font-weight:bold;
+}
+
+#main
+{background-color:gray;
+float:left;
+height:70px;
+width:300px;
+vertical-align:middle;
+text-align:center;
+mragin:left;
+}
+
+#main h1
+{
+color:white;
+font-weight;bold;
+font-size:25px;
+line-height:20px
+}
+
+.imagec{
+display:block;
+width:500px;
+height:500px;
+margin-right:auto;
+margin-left:auto;
+width:1000px;
+height:600px;
+margin-rigt:1000px;
+}
+
+#nav ul
+{list-style:none;
+marging:0;
+padding:0
+text-align:center
+vertical-align:middle;
+}
+
+#nav li
+{display:inline;
+vertical-align:middle;
+padding:18px;
+font-size:18px
+}
+#nav a
+{
+color:white;
+text-decoration:none;
+vertical-align:middle;
+padding:8px 8px 8px 8px;
+line-height:70px;
+}
+#nav a:hover
+{
+color:black;
+}
+#body1
+{background-color:gray;
+}
+
+#main1
+{
+float:right;
+}
+
+#main2 ul
+{
+line-height:23.7px;
+}
+
+
+#main2
+{
+float:left;
+background-color:white;
+width:300px;
+}
+
+#main2 h2
+{
+margin:20px
+}
+
+#main2 a
+{
+text-decoration:none;
+color:black;
+}
+
+#main2 a:visited
+{
+color:navy blue;
+}
+
+#main2 a:hover
+{
+color:blue
+}
+
+#app
+{
+background:linear-gradient(to right,white,black);
+}
+
+#apform
+{
+display:table;
+margin-left:30px;
+
+}
+
+.row
+{
+display:table-row
+}
+
+.row input
+{
+display:table-cell;
+padding:5px
+}
+.row label
+{
+display:table-cell;
+padding:5px
+}
+
+,.row textarea
+{
+display:table-cell;
+padding:5px
+}
+
+#head1{
+color:white}
